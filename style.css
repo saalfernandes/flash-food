@@ -1,0 +1,42 @@
+img{
+    width: 100% !important;
+    height: 400px;
+    
+}
+
+.slide > img{
+ width: 60vw;
+ height: 60vh;
+}
+
+#foodflash{
+    width: 100vw;
+    height: 400px !important;
+}
+
+.titulos{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+#cartao{
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+    background-color: darkred;
+}
+
+#cabecalho{
+    width: 100vw;
+    background-color:blue !important;
+}
+*{
+    color: black!important;
+}
+
+#cartao{
+    margin-top: 5vh;
+}
