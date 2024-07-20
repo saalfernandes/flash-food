@@ -40,3 +40,22 @@ body{
 #cartao{
     margin-top: 5vh;
 }
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagem{
+    border-radius: 50%;
+}
+#logo{
+    width: 15vw;
+    height: 10vh;
+    border-radius: 50%;
+}
+#menus{
+    margin-left: 80vw;
+    width: 30vw;
+}
